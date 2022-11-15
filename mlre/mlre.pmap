@@ -1,0 +1,5 @@
+"3vol":"{out_hi=1, accum=false, in_lo=0, out_lo=0, cc=15, value=0, in_hi=127, ch=1, dev=2}"
+"2vol":"{out_hi=1, accum=false, in_lo=0, out_lo=0, cc=14, value=0, in_hi=127, ch=1, dev=2}"
+"2cutoff":"{out_hi=1, accum=false, in_lo=0, out_lo=0, cc=10, value=0, in_hi=127, ch=1, dev=2}"
+"3cutoff":"{out_hi=1, accum=false, in_lo=0, out_lo=0, cc=11, value=0, in_hi=127, ch=1, dev=2}"
+"2warble_amount":"{out_hi=100, accum=false, in_lo=0, out_lo=0, cc=6, value=0, in_hi=127, ch=1, dev=2}"
