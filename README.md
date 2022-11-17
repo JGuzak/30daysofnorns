@@ -2,6 +2,8 @@
 
 My collection of psets from my 30 day norns 2022 journey.
 
+The jams are posted on my YouTube channel [here](https://youtube.com/playlist?list=PL3KEdS0LgHvDO0VnEkp0OWUtHXLy7Pp0B)!
+
 ## Requirements
 
 Norns and the following scripts:
