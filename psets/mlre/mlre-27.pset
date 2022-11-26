@@ -1,0 +1,390 @@
+-- Currant Muffins
+"LEVELS": 9
+"separator": 
+"REVERB": 11
+"rev_eng_input": -9.0
+"rev_cut_input": -9.0
+"rev_monitor_input": -inf
+"rev_tape_input": -inf
+"rev_return_level": -9.6432746655329e-16
+"rev_pre_delay": 60.0
+"rev_lf_fc": 200.0
+"rev_low_time": 6.0
+"rev_mid_time": 6.0
+"rev_hf_damping": 6000.0
+"COMPRESSOR": 8
+"comp_mix": 1
+"comp_ratio": 4.0
+"comp_threshold": -18.0
+"comp_attack": 5.0
+"comp_release": 50.0
+"comp_pre_gain": 0.0
+"comp_post_gain": 9.0
+"SOFTCUT": 3
+"cut_input_adc": -9.6432746655329e-16
+"cut_input_eng": -9.6432746655329e-16
+"cut_input_tape": -inf
+"CLOCK": 9
+"global_params": 
+"scale": 3
+"rec_threshold": -12.0
+"t_map_mode": 1
+"macro_params": 2
+"slot_assign": 1
+"recall_mode": 2
+"midi_params": 2
+"global_midi_device": 1
+"midi_trnsp": 3
+"focus_track_control": 11
+"control_focused_track": 
+"track_focus_playback": 0
+"track_focus_mute": 0
+"rec_focus_enable": 0
+"tog_focus_rev": 0
+"inc_focus_speed": 0
+"dec_focus_speed": 0
+"focus_track_rand": 0
+"control_all_tracks": 
+"start_all": 0
+"stop_all": 0
+"randomization_params": 17
+"auto_rand_rec": 1
+"auto_rand_cycle": 1
+"step_count": 16
+"randomize_track": 
+"rnd_transpose": 1
+"rnd_vol": 1
+"rnd_pan": 1
+"rnd_dir": 2
+"rnd_loop": 2
+"randomize_speed": 
+"rnd_speed": 2
+"rnd_uoct": 2
+"rnd_loct": 2
+"randomize_filter": 
+"rnd_cut": 1
+"rnd_ucut": 18000
+"rnd_lcut": 20
+"arc_params": 5
+"arc_orientation": 1
+"arc_enc_1_start": 2
+"arc_enc_1_dir": 1
+"arc_enc_1_mod": 3
+"arc_srub_sens": 8
+"track_params": 
+"track_group1": 41
+"tape_params1": 
+"1play_mode": 1
+"1buffer_sel": 1
+"1vol": 1
+"1pan": 0.0
+"1rec": 1
+"1dub": 0
+"1detune": 0.0
+"1transpose": 8
+"1rate_slew": 0
+"1level_slew": 0.1
+"1send_track5": 0.5
+"1send_track6": 0.5
+"filter_params1": 
+"1cutoff": 18000
+"1filter_q": 2.0
+"1filter_type": 1
+"1post_dry": 0
+"warble_params1": 
+"1warble_amount": 10
+"1warble_depth": 12
+"1warble_freq": 6.0
+"track_control_params1": 
+"1track_playback": 0
+"1track_mute": 0
+"1rec_enable": 0
+"1tog_rev": 0
+"1inc_speed": 0
+"1dec_speed": 0
+"1track_rand": 0
+"1trigger_params": 
+"1rec_at_step": 1
+"1trig_at_step": 1
+"1trig_at_count": 1
+"1trig_out": 1
+"1crow_amp": 8.0
+"1crow_env_a": 0.0
+"1crow_env_d": 0.05
+"1midi_channel": 1
+"1midi_note": 48
+"1midi_vel": 100
+"1input_options": 1
+"track_group2": 41
+"tape_params2": 
+"2play_mode": 1
+"2buffer_sel": 1
+"2vol": 1
+"2pan": 0.0
+"2rec": 1
+"2dub": 0
+"2detune": 0.0
+"2transpose": 8
+"2rate_slew": 0
+"2level_slew": 0.1
+"2send_track5": 0.5
+"2send_track6": 0.5
+"filter_params2": 
+"2cutoff": 788
+"2filter_q": 2.0
+"2filter_type": 1
+"2post_dry": 0
+"warble_params2": 
+"2warble_amount": 10
+"2warble_depth": 12
+"2warble_freq": 6.0
+"track_control_params2": 
+"2track_playback": 0
+"2track_mute": 0
+"2rec_enable": 0
+"2tog_rev": 0
+"2inc_speed": 0
+"2dec_speed": 0
+"2track_rand": 0
+"2trigger_params": 
+"2rec_at_step": 1
+"2trig_at_step": 1
+"2trig_at_count": 1
+"2trig_out": 1
+"2crow_amp": 8.0
+"2crow_env_a": 0.0
+"2crow_env_d": 0.05
+"2midi_channel": 1
+"2midi_note": 48
+"2midi_vel": 100
+"2input_options": 1
+"track_group3": 41
+"tape_params3": 
+"3play_mode": 1
+"3buffer_sel": 1
+"3vol": 1
+"3pan": 0.0
+"3rec": 1
+"3dub": 0
+"3detune": 0.0
+"3transpose": 8
+"3rate_slew": 0
+"3level_slew": 0.1
+"3send_track5": 0.5
+"3send_track6": 0.5
+"filter_params3": 
+"3cutoff": 6488
+"3filter_q": 2.0
+"3filter_type": 1
+"3post_dry": 0
+"warble_params3": 
+"3warble_amount": 10
+"3warble_depth": 12
+"3warble_freq": 6.0
+"track_control_params3": 
+"3track_playback": 0
+"3track_mute": 0
+"3rec_enable": 0
+"3tog_rev": 0
+"3inc_speed": 0
+"3dec_speed": 0
+"3track_rand": 0
+"3trigger_params": 
+"3rec_at_step": 1
+"3trig_at_step": 1
+"3trig_at_count": 1
+"3trig_out": 1
+"3crow_amp": 8.0
+"3crow_env_a": 0.0
+"3crow_env_d": 0.05
+"3midi_channel": 1
+"3midi_note": 48
+"3midi_vel": 100
+"3input_options": 1
+"track_group4": 41
+"tape_params4": 
+"4play_mode": 1
+"4buffer_sel": 1
+"4vol": 1
+"4pan": 0.0
+"4rec": 1
+"4dub": 0
+"4detune": 0.0
+"4transpose": 8
+"4rate_slew": 0
+"4level_slew": 0.1
+"4send_track5": 0.5
+"4send_track6": 0.5
+"filter_params4": 
+"4cutoff": 18000
+"4filter_q": 2.0
+"4filter_type": 1
+"4post_dry": 0
+"warble_params4": 
+"4warble_amount": 10
+"4warble_depth": 12
+"4warble_freq": 6.0
+"track_control_params4": 
+"4track_playback": 0
+"4track_mute": 0
+"4rec_enable": 0
+"4tog_rev": 0
+"4inc_speed": 0
+"4dec_speed": 0
+"4track_rand": 0
+"4trigger_params": 
+"4rec_at_step": 1
+"4trig_at_step": 1
+"4trig_at_count": 1
+"4trig_out": 1
+"4crow_amp": 8.0
+"4crow_env_a": 0.0
+"4crow_env_d": 0.05
+"4midi_channel": 1
+"4midi_note": 48
+"4midi_vel": 100
+"4input_options": 1
+"track_group5": 41
+"tape_params5": 
+"5play_mode": 1
+"5buffer_sel": 1
+"5vol": 1
+"5pan": 0.0
+"5rec": 1
+"5dub": 0
+"5detune": 0.0
+"5transpose": 8
+"5rate_slew": 0
+"5level_slew": 0.1
+"5send_track5": 0.5
+"5send_track6": 0.5
+"filter_params5": 
+"5cutoff": 18000
+"5filter_q": 2.0
+"5filter_type": 1
+"5post_dry": 0
+"warble_params5": 
+"5warble_amount": 10
+"5warble_depth": 12
+"5warble_freq": 6.0
+"track_control_params5": 
+"5track_playback": 0
+"5track_mute": 0
+"5rec_enable": 0
+"5tog_rev": 0
+"5inc_speed": 0
+"5dec_speed": 0
+"5track_rand": 0
+"5trigger_params": 
+"5rec_at_step": 1
+"5trig_at_step": 1
+"5trig_at_count": 1
+"5trig_out": 1
+"5crow_amp": 8.0
+"5crow_env_a": 0.0
+"5crow_env_d": 0.05
+"5midi_channel": 1
+"5midi_note": 48
+"5midi_vel": 100
+"5input_options": 1
+"track_group6": 41
+"tape_params6": 
+"6play_mode": 1
+"6buffer_sel": 1
+"6vol": 1
+"6pan": 0.0
+"6rec": 1
+"6dub": 0
+"6detune": 0.0
+"6transpose": 8
+"6rate_slew": 0
+"6level_slew": 0.1
+"6send_track5": 0.5
+"6send_track6": 0.5
+"filter_params6": 
+"6cutoff": 304
+"6filter_q": 2.0
+"6filter_type": 2
+"6post_dry": 0
+"warble_params6": 
+"6warble_amount": 10
+"6warble_depth": 12
+"6warble_freq": 6.0
+"track_control_params6": 
+"6track_playback": 0
+"6track_mute": 0
+"6rec_enable": 0
+"6tog_rev": 0
+"6inc_speed": 0
+"6dec_speed": 0
+"6track_rand": 0
+"6trigger_params": 
+"6rec_at_step": 1
+"6trig_at_step": 1
+"6trig_at_count": 1
+"6trig_out": 1
+"6crow_amp": 8.0
+"6crow_env_a": 0.0
+"6crow_env_d": 0.05
+"6midi_channel": 1
+"6midi_note": 48
+"6midi_vel": 100
+"6input_options": 1
+"modulation_sep": 
+"lfo 1": 7
+"1lfo_target": 1
+"1lfo_shape": 1
+"1lfo_depth": 0
+"1lfo_offset": 0.0
+"1lfo_freq": 0.5
+"1lfo_range": 2
+"1lfo_state": 1
+"lfo 2": 7
+"2lfo_target": 1
+"2lfo_shape": 1
+"2lfo_depth": 0
+"2lfo_offset": 0.0
+"2lfo_freq": 0.5
+"2lfo_range": 2
+"2lfo_state": 1
+"lfo 3": 7
+"3lfo_target": 1
+"3lfo_shape": 1
+"3lfo_depth": 0
+"3lfo_offset": 0.0
+"3lfo_freq": 0.5
+"3lfo_range": 2
+"3lfo_state": 1
+"lfo 4": 7
+"4lfo_target": 1
+"4lfo_shape": 1
+"4lfo_depth": 0
+"4lfo_offset": 0.0
+"4lfo_freq": 0.5
+"4lfo_range": 2
+"4lfo_state": 1
+"lfo 5": 7
+"5lfo_target": 1
+"5lfo_shape": 1
+"5lfo_depth": 0
+"5lfo_offset": 0.0
+"5lfo_freq": 0.5
+"5lfo_range": 2
+"5lfo_state": 1
+"lfo 6": 7
+"6lfo_target": 1
+"6lfo_shape": 1
+"6lfo_depth": 0
+"6lfo_offset": 0.0
+"6lfo_freq": 0.5
+"6lfo_range": 2
+"6lfo_state": 1
+"1clip_length": 10
+"2clip_length": 6
+"3clip_length": 10
+"4clip_length": 10
+"5clip_length": 4
+"6clip_length": 6
+"7clip_length": 4
+"8clip_length": 4
+"quant_div": 7
