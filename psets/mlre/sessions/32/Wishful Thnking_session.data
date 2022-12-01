@@ -1,0 +1,1017 @@
+return {
+-- Table: {1}
+{
+   {2},
+   {3},
+   {4},
+   {5},
+   {6},
+   {7},
+   {8},
+   {9},
+},
+-- Table: {2}
+{
+   ["recall_has_data"]=false,
+   ["snap_speed"]={10},
+   ["pattern_event"]={11},
+   ["pattern_time"]={12},
+   ["snap_data"]=false,
+   ["track_loop_start"]=3,
+   ["snap_active"]=false,
+   ["route_t6"]=0,
+   ["clip_name"]="-",
+   ["snap_mute"]={13},
+   ["pattern_count"]=0,
+   ["recall_event"]={14},
+   ["clip_l"]=15.135999999999,
+   ["snap_trsp"]={15},
+   ["track_rev"]=0,
+   ["track_warble"]=0,
+   ["clip_e"]=16.135999999999,
+   ["track_clip"]=1,
+   ["track_loop_end"]=10,
+   ["track_fade"]=0,
+   ["snap_play"]={16},
+   ["clip_bpm"]=126.84989429177,
+   ["snap_loop_end"]={17},
+   ["snap_rev"]={18},
+   ["snap_pos_grid"]={19},
+   ["snap_loop_start"]={20},
+   ["track_speed"]=0,
+   ["clip_info"]="length: 15.14s",
+   ["track_mute"]=0,
+   ["track_tempo_map"]=1,
+   ["route_t5"]=0,
+   ["snap_loop"]={21},
+   ["pattern_time_factor"]=1,
+   ["clip_reset"]=15.135999999999,
+   ["track_sel"]=0,
+   ["track_loop"]=0,
+},
+-- Table: {3}
+{
+   ["recall_has_data"]=false,
+   ["snap_speed"]={22},
+   ["pattern_event"]={23},
+   ["pattern_time"]={24},
+   ["snap_data"]=false,
+   ["track_loop_start"]=1,
+   ["snap_active"]=false,
+   ["route_t6"]=0,
+   ["clip_name"]="-",
+   ["snap_mute"]={25},
+   ["pattern_count"]=0,
+   ["recall_event"]={26},
+   ["clip_l"]=7.5480000000098,
+   ["snap_trsp"]={27},
+   ["track_rev"]=0,
+   ["track_warble"]=0,
+   ["clip_e"]=51.54800000001,
+   ["track_clip"]=2,
+   ["track_loop_end"]=4,
+   ["track_fade"]=0,
+   ["snap_play"]={28},
+   ["clip_bpm"]=127.18600953879,
+   ["snap_loop_end"]={29},
+   ["snap_rev"]={30},
+   ["snap_pos_grid"]={31},
+   ["snap_loop_start"]={32},
+   ["track_speed"]=-1,
+   ["clip_info"]="length: 7.55s",
+   ["track_mute"]=0,
+   ["track_tempo_map"]=1,
+   ["route_t5"]=0,
+   ["snap_loop"]={33},
+   ["pattern_time_factor"]=1,
+   ["clip_reset"]=7.5480000000098,
+   ["track_sel"]=0,
+   ["track_loop"]=0,
+},
+-- Table: {4}
+{
+   ["recall_has_data"]=false,
+   ["snap_speed"]={34},
+   ["pattern_event"]={35},
+   ["pattern_time"]={36},
+   ["snap_data"]=false,
+   ["track_loop_start"]=1,
+   ["snap_active"]=false,
+   ["route_t6"]=0,
+   ["clip_name"]="-",
+   ["snap_mute"]={37},
+   ["pattern_count"]=0,
+   ["recall_event"]={38},
+   ["clip_l"]=7.5479999999807,
+   ["snap_trsp"]={39},
+   ["track_rev"]=0,
+   ["track_warble"]=0,
+   ["clip_e"]=94.547999999981,
+   ["track_clip"]=3,
+   ["track_loop_end"]=16,
+   ["track_fade"]=0,
+   ["snap_play"]={40},
+   ["clip_bpm"]=127.18600953928,
+   ["snap_loop_end"]={41},
+   ["snap_rev"]={42},
+   ["snap_pos_grid"]={43},
+   ["snap_loop_start"]={44},
+   ["track_speed"]=0,
+   ["clip_info"]="length: 7.55s",
+   ["track_mute"]=0,
+   ["track_tempo_map"]=1,
+   ["route_t5"]=0,
+   ["snap_loop"]={45},
+   ["pattern_time_factor"]=1,
+   ["clip_reset"]=7.5479999999807,
+   ["track_sel"]=0,
+   ["track_loop"]=0,
+},
+-- Table: {5}
+{
+   ["recall_has_data"]=false,
+   ["snap_speed"]={46},
+   ["pattern_event"]={47},
+   ["pattern_time"]={48},
+   ["snap_data"]=false,
+   ["track_loop_start"]=1,
+   ["snap_active"]=false,
+   ["route_t6"]=0,
+   ["clip_name"]="-",
+   ["snap_mute"]={49},
+   ["pattern_count"]=0,
+   ["recall_event"]={50},
+   ["clip_l"]=7.5679999999993,
+   ["snap_trsp"]={51},
+   ["track_rev"]=0,
+   ["track_warble"]=0,
+   ["clip_e"]=137.568,
+   ["track_clip"]=4,
+   ["track_loop_end"]=16,
+   ["track_fade"]=0,
+   ["snap_play"]={52},
+   ["clip_bpm"]=126.84989429177,
+   ["snap_loop_end"]={53},
+   ["snap_rev"]={54},
+   ["snap_pos_grid"]={55},
+   ["snap_loop_start"]={56},
+   ["track_speed"]=0,
+   ["clip_info"]="length: 7.57s",
+   ["track_mute"]=0,
+   ["track_tempo_map"]=1,
+   ["route_t5"]=0,
+   ["snap_loop"]={57},
+   ["pattern_time_factor"]=1,
+   ["clip_reset"]=7.5679999999993,
+   ["track_sel"]=0,
+   ["track_loop"]=0,
+},
+-- Table: {6}
+{
+   ["recall_has_data"]=false,
+   ["snap_speed"]={58},
+   ["pattern_event"]={59},
+   ["pattern_time"]={60},
+   ["snap_data"]=false,
+   ["track_loop_start"]=1,
+   ["snap_active"]=false,
+   ["route_t6"]=0,
+   ["clip_name"]="-",
+   ["snap_mute"]={61},
+   ["pattern_count"]=0,
+   ["recall_event"]={62},
+   ["clip_l"]=3.4630000000034,
+   ["snap_trsp"]={63},
+   ["track_rev"]=0,
+   ["track_warble"]=0,
+   ["clip_e"]=176.463,
+   ["track_clip"]=5,
+   ["track_loop_end"]=16,
+   ["track_fade"]=0,
+   ["snap_play"]={64},
+   ["clip_bpm"]=138.60814322828,
+   ["snap_loop_end"]={65},
+   ["snap_rev"]={66},
+   ["snap_pos_grid"]={67},
+   ["snap_loop_start"]={68},
+   ["track_speed"]=0,
+   ["clip_info"]="length: 3.46s",
+   ["track_mute"]=0,
+   ["track_tempo_map"]=1,
+   ["route_t5"]=0,
+   ["snap_loop"]={69},
+   ["pattern_time_factor"]=1,
+   ["clip_reset"]=3.4630000000034,
+   ["track_sel"]=0,
+   ["track_loop"]=0,
+},
+-- Table: {7}
+{
+   ["recall_has_data"]=false,
+   ["snap_speed"]={70},
+   ["pattern_event"]={71},
+   ["pattern_time"]={72},
+   ["snap_data"]=false,
+   ["track_loop_start"]=1,
+   ["snap_active"]=false,
+   ["clip_name"]="-",
+   ["snap_mute"]={73},
+   ["pattern_count"]=0,
+   ["recall_event"]={74},
+   ["clip_l"]=1.8217499999992,
+   ["snap_trsp"]={75},
+   ["track_rev"]=0,
+   ["track_warble"]=0,
+   ["clip_e"]=217.82175,
+   ["track_clip"]=6,
+   ["track_loop_end"]=16,
+   ["track_fade"]=0,
+   ["snap_play"]={76},
+   ["clip_bpm"]=131.74145738993,
+   ["snap_loop_end"]={77},
+   ["snap_rev"]={78},
+   ["snap_pos_grid"]={79},
+   ["snap_loop_start"]={80},
+   ["track_mute"]=0,
+   ["clip_reset"]=4,
+   ["track_tempo_map"]=1,
+   ["track_speed"]=0,
+   ["snap_loop"]={81},
+   ["pattern_time_factor"]=1,
+   ["track_loop"]=0,
+   ["track_sel"]=0,
+   ["clip_info"]="length: 1.82s",
+},
+-- Table: {8}
+{
+   ["recall_has_data"]=false,
+   ["snap_speed"]={82},
+   ["pattern_event"]={83},
+   ["snap_pos_grid"]={84},
+   ["pattern_time"]={85},
+   ["snap_data"]=false,
+   ["clip_bpm"]=60.0,
+   ["clip_info"]="length: 4.00s",
+   ["snap_trsp"]={86},
+   ["snap_active"]=false,
+   ["snap_rev"]={87},
+   ["snap_loop_end"]={88},
+   ["snap_loop_start"]={89},
+   ["snap_loop"]={90},
+   ["pattern_time_factor"]=1,
+   ["clip_name"]="-",
+   ["snap_mute"]={91},
+   ["clip_e"]=263,
+   ["pattern_count"]=0,
+   ["recall_event"]={92},
+   ["clip_l"]=4,
+   ["snap_play"]={93},
+   ["clip_reset"]=4,
+},
+-- Table: {9}
+{
+   ["recall_has_data"]=false,
+   ["snap_speed"]={94},
+   ["pattern_event"]={95},
+   ["snap_pos_grid"]={96},
+   ["pattern_time"]={97},
+   ["snap_data"]=false,
+   ["clip_bpm"]=60.0,
+   ["clip_info"]="length: 4.00s",
+   ["snap_trsp"]={98},
+   ["snap_active"]=false,
+   ["snap_rev"]={99},
+   ["snap_loop_end"]={100},
+   ["snap_loop_start"]={101},
+   ["snap_loop"]={102},
+   ["pattern_time_factor"]=1,
+   ["clip_name"]="-",
+   ["snap_mute"]={103},
+   ["clip_e"]=306,
+   ["pattern_count"]=0,
+   ["recall_event"]={104},
+   ["clip_l"]=4,
+   ["snap_play"]={105},
+   ["clip_reset"]=4,
+},
+-- Table: {10}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {11}
+{
+},
+-- Table: {12}
+{
+},
+-- Table: {13}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {14}
+{
+},
+-- Table: {15}
+{
+   8,
+   8,
+   8,
+   8,
+   8,
+   8,
+},
+-- Table: {16}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {17}
+{
+   16,
+   16,
+   16,
+   16,
+   16,
+   16,
+},
+-- Table: {18}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {19}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {20}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {21}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {22}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {23}
+{
+},
+-- Table: {24}
+{
+},
+-- Table: {25}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {26}
+{
+},
+-- Table: {27}
+{
+   8,
+   8,
+   8,
+   8,
+   8,
+   8,
+},
+-- Table: {28}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {29}
+{
+   16,
+   16,
+   16,
+   16,
+   16,
+   16,
+},
+-- Table: {30}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {31}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {32}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {33}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {34}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {35}
+{
+},
+-- Table: {36}
+{
+},
+-- Table: {37}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {38}
+{
+},
+-- Table: {39}
+{
+   8,
+   8,
+   8,
+   8,
+   8,
+   8,
+},
+-- Table: {40}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {41}
+{
+   16,
+   16,
+   16,
+   16,
+   16,
+   16,
+},
+-- Table: {42}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {43}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {44}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {45}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {46}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {47}
+{
+},
+-- Table: {48}
+{
+},
+-- Table: {49}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {50}
+{
+},
+-- Table: {51}
+{
+   8,
+   8,
+   8,
+   8,
+   8,
+   8,
+},
+-- Table: {52}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {53}
+{
+   16,
+   16,
+   16,
+   16,
+   16,
+   16,
+},
+-- Table: {54}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {55}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {56}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {57}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {58}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {59}
+{
+},
+-- Table: {60}
+{
+},
+-- Table: {61}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {62}
+{
+},
+-- Table: {63}
+{
+   8,
+   8,
+   8,
+   8,
+   8,
+   8,
+},
+-- Table: {64}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {65}
+{
+   16,
+   16,
+   16,
+   16,
+   16,
+   16,
+},
+-- Table: {66}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {67}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {68}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {69}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {70}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {71}
+{
+},
+-- Table: {72}
+{
+},
+-- Table: {73}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {74}
+{
+},
+-- Table: {75}
+{
+   8,
+   8,
+   8,
+   8,
+   8,
+   8,
+},
+-- Table: {76}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {77}
+{
+   16,
+   16,
+   16,
+   16,
+   16,
+   16,
+},
+-- Table: {78}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {79}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {80}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {81}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {82}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {83}
+{
+},
+-- Table: {84}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {85}
+{
+},
+-- Table: {86}
+{
+   8,
+   8,
+   8,
+   8,
+   8,
+   8,
+},
+-- Table: {87}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {88}
+{
+   16,
+   16,
+   16,
+   16,
+   16,
+   16,
+},
+-- Table: {89}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {90}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {91}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {92}
+{
+},
+-- Table: {93}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {94}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {95}
+{
+},
+-- Table: {96}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {97}
+{
+},
+-- Table: {98}
+{
+   8,
+   8,
+   8,
+   8,
+   8,
+   8,
+},
+-- Table: {99}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {100}
+{
+   16,
+   16,
+   16,
+   16,
+   16,
+   16,
+},
+-- Table: {101}
+{
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+},
+-- Table: {102}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {103}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+-- Table: {104}
+{
+},
+-- Table: {105}
+{
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+},
+}
